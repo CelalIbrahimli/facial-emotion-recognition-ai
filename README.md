@@ -30,9 +30,8 @@ Supported emotions:
 
 ## Demo Video
 
-https://github.com/CelalIbrahimli/facial-emotion-recognition-ai/assets/preview
+<video src="demo/emotion_detector_demo.mp4" controls width="900"></video>
 
-<video src="demo/emotion_detector_demo.mp4" controls width="800"></video>
 ---
 
 ## Model Information
