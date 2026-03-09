@@ -30,7 +30,7 @@ Supported emotions:
 
 ## Demo Video
 
-<video src="demo/emotion_detector_demo.mp4" controls width="900"></video>
+[![Watch the Demo](https://img.shields.io/badge/▶%20Watch%20Demo%20Video-blue?style=for-the-badge)](demo/emotion_detector_demo.mp4)
 
 ---
 
