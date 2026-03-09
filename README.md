@@ -30,10 +30,7 @@ Supported emotions:
 
 ## Demo Video
 
-Watch the project demonstration below.
-
-[Watch Demo Video](demo/emotion_detector_demo.mp4)
-
+<video src="demo/emotion_detector_demo.mp4" controls width="900"></video>
 ---
 
 ## Model Information
