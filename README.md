@@ -12,7 +12,7 @@ A modern **Gradio interface** is provided and the model is deployed as an intera
 
 Try the application here:
 
-https://huggingface.co/spaces/CelalIbrahimli/emotion-detection-ai
+[https://huggingface.co/spaces/CelalIbrahimli/emotion-detection-ai](https://huggingface.co/spaces/celalibr/emotion-detection-ai)
 
 Upload a facial image and the model will classify the dominant emotion.
 
@@ -71,26 +71,6 @@ Training was performed using PyTorch with data augmentation and class weighting 
 - Torchvision
 - Gradio
 - Hugging Face Spaces
-
----
-
-## Project Structure
-
-
-facial-emotion-recognition-ai
-│
-├── app.py
-├── best_model.pth
-├── class_names.json
-├── requirements.txt
-├── README.md
-│
-├── demo
-│ └── emotion_detector_demo.mp4
-│
-└── notebooks
-└── FER2013_Emotion_Detection_ResNet18.ipynb
-
 
 ---
 
